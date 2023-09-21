@@ -1,1 +1,3 @@
 homework. Wrote sample text for future commits
+
+round 2. testing different approaches
